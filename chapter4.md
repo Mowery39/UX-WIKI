@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chapter 4
-permalink: /chapter4/
+permalink: /chapter4.html
 ---
 
 
