@@ -66,5 +66,10 @@ footer.site-footer,
   display: none !important;
 }
 
+/* Hide header navigation, keep title only */
+.site-nav {
+  display: none;
+}
+
 
 
