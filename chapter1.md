@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Chapter 1
 permalink: /chapter1.html
 ---
 
