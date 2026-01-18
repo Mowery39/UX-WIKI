@@ -1,0 +1,41 @@
+---
+layout: base
+---
+
+{%- include sidebar.html -%}
+
+<main class="page-content" aria-label="Content">
+  <div class="wrapper">
+    {{ content }}
+  </div>
+</main>
+
+<script>
+(function () {
+  const btn = document.getElementById("uxMenuBtn");
+  const sidebar = document.getElementById("uxSidebar");
+  const backdrop = document.getElementById("uxBackdrop");
+  const closeBtn = document.getElementById("uxCloseBtn");
+
+  if (!btn || !sidebar || !backdrop || !closeBtn) return;
+
+  function openMenu() {
+    sidebar.classList.add("open");
+    backdrop.hidden = false;
+    btn.setAttribute("aria-expanded", "true");
+  }
+
+  function closeMenu() {
+    sidebar.classList.remove("open");
+    backdrop.hidden = true;
+    btn.setAttribute("aria-expanded", "false");
+  }
+
+  btn.addEventListener("click", openMenu);
+  closeBtn.addEventListener("click", closeMenu);
+  backdrop.addEventListener("click", closeMenu);
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") closeMenu();
+  });
+})();
+</script>
