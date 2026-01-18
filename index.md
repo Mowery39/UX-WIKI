@@ -1,4 +1,3 @@
-# Welcome to my CSCI 4260 UX Design Wiki!
 
 # Purpose of this WIKI
 
