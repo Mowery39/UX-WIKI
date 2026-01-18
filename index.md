@@ -1,5 +1,3 @@
-# UX Design Wiki
-
 Welcome to my CSCI 4260 UX Design Wiki.
 
 ## Chapters
