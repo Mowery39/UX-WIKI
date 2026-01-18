@@ -1,2 +1,12 @@
 <script defer src="{{ "/assets/js/sidebar.js" | relative_url }}"></script>
 
+<style>
+  /* Nuke Minima header links (keep only UX Wiki title) */
+  .site-header .site-nav,
+  .site-header .trigger,
+  .site-header .page-link,
+  .site-header .nav-trigger,
+  .site-header label[for="nav-trigger"] {
+    display: none !important;
+  }
+</style>
