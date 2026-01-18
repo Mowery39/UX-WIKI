@@ -60,8 +60,10 @@ blockquote {
 }
 
 
-/* Hide Minima footer */
+/* Hide Minima footer (force) */
+footer.site-footer,
 .site-footer {
-  display: none;
+  display: none !important;
 }
+
 
