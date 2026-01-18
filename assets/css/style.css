@@ -66,10 +66,13 @@ footer.site-footer,
   display: none !important;
 }
 
-/* Hide header navigation, keep title only */
-.site-nav {
-  display: none;
+/* Kill the top navigation links (keep only the site title) */
+.site-header .site-nav,
+.site-header .trigger,
+.site-header .page-link,
+.site-header .nav-trigger,
+.site-header label[for="nav-trigger"] {
+  display: none !important;
 }
-
 
 
