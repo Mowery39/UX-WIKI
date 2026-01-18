@@ -93,20 +93,22 @@ A product manager works with stakeholders and the team to make sure a digital pr
 
 A UX strategist focuses on making sure a product actually delivers value to both users and the business by using research, competitive analysis, and strategic planning. They help validate ideas, uncover real user needs, and guide decisions about what the product should offer, especially when there isn’t a dedicated product manager.
 
+## Service Designer
 
-
-
-Service Designer
 A service designer looks at the bigger picture of how people experience a service across products, people, and processes, not just a single app or site. They use things like journey maps and service blueprints to find gaps and improve the overall experience, while also thinking about adoption, support, and how changes will affect users over time.
 
-Business Analyst
+## Business Analyst
+
 A business analyst focuses on defining and documenting requirements and acts as the main link between business stakeholders and the technical team. While they are not always part of the UX team, UX designers often end up sharing or taking on this role, especially on complex, task-based projects.
 
-Content Strategist
+## Content Strategist
+
 A content strategist focuses on making sure the right content exists, is structured well, and supports both user needs and business goals. They handle content guidelines, gaps in existing content, creation or migration of content, and coordination with the team so that content works properly within the system.
 
-UX Writer
+## UX Writer
+
 A UX writer focuses on the words users see while using a product, like instructions, labels, messages, and notifications that guide the experience. If there isn’t a dedicated UX writer on the team, this responsibility often falls to the UX designer, so it’s important to plan for that work upfront.
 
-Front-End Developer
+## Front-End Developer
+
 A front-end developer builds the parts of a product that users see and interact with, using technologies like HTML, CSS, JavaScript, or frameworks like React. When UX designers or teammates take on this role, it’s important to coordinate closely with back-end developers and be clear about expectations, especially when building prototypes with real functionality.
