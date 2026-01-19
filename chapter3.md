@@ -34,7 +34,7 @@ ContentOps supports content teams by creating efficient workflows, standardizing
 
 ## Bonus Operations
 
-## DevOps and DevSecOps focus on improving collaboration between development, IT, and security teams to deliver software more efficiently and reliably. While UX designers don’t directly practice these roles, understanding them helps designers work more effectively with technical teams and think about shipping design changes more frequently, leading to better feedback, less rework, and stronger products overall.
+DevOps and DevSecOps focus on improving collaboration between development, IT, and security teams to deliver software more efficiently and reliably. While UX designers don’t directly practice these roles, understanding them helps designers work more effectively with technical teams and think about shipping design changes more frequently, leading to better feedback, less rework, and stronger products overall.
 
 ## ConclusionOps
 
