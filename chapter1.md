@@ -4,6 +4,10 @@ title: ""
 permalink: /chapter1.html
 ---
 
+# Chapter 1 Notes
+
+- [Back To HomePage](index.md)
+
 ## Why the book was written 
 
 This book was written by Russ Unger and Carolyn Chandler to introduce UX design and speak to people who are naturally curious, passionate, and empathetic. The authors explained that UX designers care about how things work, how people feel, and how to improve experiences, which is why they’re drawn to the UX field. 
