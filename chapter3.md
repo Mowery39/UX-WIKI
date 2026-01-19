@@ -1,5 +1,6 @@
 ---
 layout: page
+title: ""
 permalink: /chapter3.html
 ---
 
