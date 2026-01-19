@@ -59,12 +59,20 @@ blockquote {
   border-radius: 10px;
 }
 
+/* Remove the entire site header */
+.site-header {
+  display: none !important;
+}
+
+
 
 /* Hide Minima footer (force) */
 footer.site-footer,
 .site-footer {
   display: none !important;
 }
+
+
 
 /* Kill the top navigation links (keep only the site title) */
 .site-header .site-nav,
