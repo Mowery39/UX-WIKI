@@ -64,6 +64,12 @@ blockquote {
   display: none !important;
 }
 
+/* Remove top padding left by header */
+.page-content {
+  padding-top: 0 !important;
+}
+
+
 
 
 /* Hide Minima footer (force) */
