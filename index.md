@@ -20,4 +20,4 @@ A Project Guide to UX Design: For User Experience Designers in the Field or in t
 
 ## Essential & Reflection Questions
 - [Read, Outline, and Reflect on Chapters 1-2 of A Project Guide to UX Design](RORAssignment1.md)
-- [Read, Outline, and Reflect on Chapters 1-2 of A Project Guide to UX Design](RORAssignment2.md)
+- [Read, Outline, and Reflect on Chapters 3-4 of A Project Guide to UX Design](RORAssignment2.md)
