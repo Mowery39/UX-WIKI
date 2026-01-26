@@ -104,6 +104,3 @@ Follow-up actions are what turn workshops into real progress instead of just goo
 
 ## This Is a Lot of Work, and It’s a Lot of Fun!
 Workshops can feel intense, but they’re powerful tools for alignment and creativity. I think leaning into the process and learning from each session is what makes you a better UX facilitator.
-
-## You are right on track 
-Next message can be “okay, answer the questions,” and I’ll knock out all essentials + reflections clean, fast, and in your exact style.
