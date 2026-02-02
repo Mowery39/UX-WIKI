@@ -45,7 +45,7 @@ permalink: /RORAssignment4.html
 
 ### Describe three user-research methods.
 
-- I think user interviews help me understand user attitudes and goals through conversation. Usability testing lets me observe users completing tasks, and surveys help me gather patterns from a larger group of users.
+- User interviews involve structured conversations with users to understand their goals, attitudes, and pain points. Usability testing involves observing users as they attempt to complete tasks on a product to identify usability issues. Surveys collect responses from a larger group of users using structured questions to identify patterns and trends.
 
 ### What is a persona in the context of design?
 
