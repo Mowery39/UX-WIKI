@@ -20,23 +20,23 @@ permalink: /RORAssignment4.html
 
 ### What do these terms mean in the context of user research?
 
-- Primary user goals
+- **Primary user goals**
 
  - I think primary user goals are the main things users are trying to accomplish when using a product. Understanding these goals helps me design features that support what users actually came to do.
 
-- roles
+- **roles**
 
  - I see roles as how users relate to a product based on what they’re trying to accomplish, like being a customer, job seeker, or support user. Roles help explain different needs within the same user group.
 
-- demographics
+- **demographics**
 
  - I think demographics are background details like age, income, or location that add context to user behavior. They can be useful, but I try not to rely on them too heavily so I don’t introduce bias.
 
-- experience
+- **experience**
 
  - I see experience as how familiar users are with the subject matter or technology. This influences how simple or advanced a design should be.
 
-- work attributes
+- **work attributes**
 
  - I think work attributes describe a user’s job environment, such as company size, role level, or work setting. These factors can shape how and why users interact with a product.
 
