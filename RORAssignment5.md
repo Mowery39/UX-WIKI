@@ -49,9 +49,9 @@ I think a good map helps me see friction points and opportunities that I might m
 I think maps give a team a shared understanding of how the product is supposed to work. They help reduce confusion between designers, developers, and stakeholders by clearly showing flows, logic, and expectations.
 
 ### 3. Please sketch out a rough process map of the digital textbook
-For this question, I created and uploaded a rough process map showing how a user moves through the digital textbook. My map includes steps like opening the textbook, navigating chapters, selecting content, and reading materials, along with decision points such as logging in or accessing locked content.
+For this question, I created a rough process map showing how a user moves through the digital textbook. My map includes steps like opening the textbook, navigating chapters, selecting content, and reading materials, along with decision points such as logging in or accessing locked content.
 
 ### 4. Please sketch out a rough journey map of the digital textbook
-For this question, I created and uploaded a rough journey map of the digital textbook experience. The map shows phases like discovering the textbook, navigating content, studying or reading, and finishing a session, as well as the user’s actions, thoughts, obstacles, and opportunities during each phase.
+For this question, I created a rough journey map of the digital textbook experience. The map shows phases like discovering the textbook, navigating content, studying or reading, and finishing a session, as well as the user’s actions, thoughts, obstacles, and opportunities during each phase.
 
 
